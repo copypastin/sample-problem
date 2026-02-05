@@ -9,7 +9,7 @@
 **Important:** To ensure unbiased grading, **do NOT** indicate which method you chose in your source code, code comments, or submission text. You will report your method in a separate form (linked below) after submitting.
 
 **Group A: Traditional Approach**
-* Write the code entirely by yourself using the concepts covered in class and the textbook.
+* Write the code entirely by yourself.
 * Focus on manual implementation and logic building without external generation tools.
 
 **Group B: AI-Assisted Approach**
