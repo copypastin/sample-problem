@@ -6,6 +6,10 @@
 ### Experimental Protocol (Single-Blind)
 **This assignment is part of a single-blind experiment.** You must choose ONE of the paths below to complete the work.
 
+### Submission Instructions
+**Submit Source Code:** Message me directly via Discord (aarns) with your source code file attached.
+    * *Reminder:* Do **not** include comments in the file revealing if you used AI or not.
+
 **Important:** To ensure unbiased grading, **do NOT** indicate which method you chose in your source code, code comments, or submission text. You will report your method in a separate form (linked below) after submitting.
 
 **Group A: Traditional Approach**
