@@ -32,7 +32,6 @@ You will create ONE structure definition. Do NOT create nested structures. The s
 * Correctly entering the number of jars sold: +2 points
 * Correctly display the total sales: +4 points
 * Correctly displaying the name of the highest selling salsa: +4 points
-* Miscellaneous deductions can occur as outlined in the syllabus.
 
 ### A 20-Point Sample Run
 ```text
